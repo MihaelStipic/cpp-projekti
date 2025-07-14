@@ -11,9 +11,11 @@ Simulacija jednostavnog bankovnog sustava s osnovnim funkcijama za upravljanje r
 
 Program se sastoji od dvije glavne klase:
 
+
 **Account** – predstavlja pojedinačni bankovni račun s podacima o vlasniku, broju računa, trenutnom stanju i zapisima transakcija.
 
 **Bank** – upravlja više računa, omogućuje kreiranje novih računa, uplate, isplate, pregled računa i listu svih računa.
+
 
 **Funkcionalnosti:**
 - Kreiranje bankovnih računa
@@ -47,11 +49,13 @@ Konzolna verzija igre "Križić-kružić" za dva igrača.
 
 Program se sastoji od tri glavne klase:
 
+
 **Player** – klasa koja predstavlja igrača s imenom i simbolom.
 
 **Board** – klasa koja predstavlja ploču za igru, upravlja pozicijama, prikazom i provjerom pobjednika ili popunjenosti ploče.
 
 **Game** – klasa koja upravlja tijekom igre, naizmjeničnim unosima igrača, provjerom pobjednika i ispisom rezultata.
+
 
 **Funkcionalnosti:**
 - Igra za dva igrača (simboli 'X' i 'O')
