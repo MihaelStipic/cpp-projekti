@@ -6,7 +6,7 @@ Ovaj repozitorij sadrži nekoliko manjih projekata napisanih u programskom jezik
 
 ### 1. Banka.cpp
 
-## **Opis:**  
+**Opis:**  
 Simulacija jednostavnog bankovnog sustava s osnovnim funkcijama za upravljanje računom.
 
 Program se sastoji od dvije glavne klase:
@@ -44,7 +44,7 @@ Za Linux ili MacOS:
 
 ### 2. TicTacToe.cpp
 
-## **Opis:**  
+**Opis:**  
 Konzolna verzija igre "Križić-kružić" za dva igrača.
 
 Program se sastoji od tri glavne klase:
