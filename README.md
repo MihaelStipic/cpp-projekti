@@ -12,6 +12,7 @@ Simulacija jednostavnog bankovnog sustava s osnovnim funkcijama za upravljanje r
 Program se sastoji od dvije glavne klase:
 
 **Account** – predstavlja pojedinačni bankovni račun s podacima o vlasniku, broju računa, trenutnom stanju i zapisima transakcija.
+
 **Bank** – upravlja više računa, omogućuje kreiranje novih računa, uplate, isplate, pregled računa i listu svih računa.
 
 **Funkcionalnosti:**
