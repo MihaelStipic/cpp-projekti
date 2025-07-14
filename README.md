@@ -60,9 +60,6 @@ Program se sastoji od tri glavne klase:
 
 ## Kako pokrenuti projekte
 
-Za pokretanje bilo kojeg projekta koristi se sljedeća naredba u terminalu:
-
-
 ```bash
 g++ TicTacToe.cpp -o tictactoe
 ```
