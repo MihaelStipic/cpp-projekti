@@ -26,6 +26,13 @@ Program se sastoji od dvije glavne klase:
 
 ```bash
 g++ Banka.cpp -o banka
+```
+Zatim, za Windows korisnike:
+```bash
+./banka.exe
+```
+Za Linux ili MacOS:
+```bash
 ./banka
 ```
 
@@ -61,7 +68,7 @@ g++ TicTacToe.cpp -o tictactoe
 ```
 Zatim, za Windows korisnike:
 ```bash
-./ime_programa
+./tictactoe.exe
 ```
 Za Linux ili MacOS:
 ```bash
