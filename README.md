@@ -48,7 +48,9 @@ Konzolna verzija igre "Križić-kružić" za dva igrača.
 Program se sastoji od tri glavne klase:
 
 **Player** – klasa koja predstavlja igrača s imenom i simbolom.
+
 **Board** – klasa koja predstavlja ploču za igru, upravlja pozicijama, prikazom i provjerom pobjednika ili popunjenosti ploče.
+
 **Game** – klasa koja upravlja tijekom igre, naizmjeničnim unosima igrača, provjerom pobjednika i ispisom rezultata.
 
 **Funkcionalnosti:**
