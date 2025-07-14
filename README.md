@@ -17,7 +17,7 @@ Program se sastoji od dvije glavne klase:
 **Bank** – upravlja više računa, omogućuje kreiranje novih računa, uplate, isplate, pregled računa i listu svih računa.
 
 
-**Funkcionalnosti:**
+## **Funkcionalnosti:**
 - Kreiranje bankovnih računa
 - Uplata i isplata novca
 - Prikaz stanja računa
@@ -57,7 +57,7 @@ Program se sastoji od tri glavne klase:
 **Game** – klasa koja upravlja tijekom igre, naizmjeničnim unosima igrača, provjerom pobjednika i ispisom rezultata.
 
 
-**Funkcionalnosti:**
+## **Funkcionalnosti:**
 - Igra za dva igrača (simboli 'X' i 'O')
 - Unos pozicije na ploči (0–8) s provjerom valjanosti poteza
 - Prikaz ploče s označenim pozicijama i simbolima
@@ -65,7 +65,7 @@ Program se sastoji od tri glavne klase:
 - Detekcija neriješenog ishoda ako su sve pozicije popunjene
 - Jednostavno tekstualno sučelje za konzolu
 
-## Kako pokrenuti projekte
+## Kako pokrenuti:
 
 ```bash
 g++ TicTacToe.cpp -o tictactoe
